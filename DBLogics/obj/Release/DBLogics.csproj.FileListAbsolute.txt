@@ -1,0 +1,7 @@
+E:\Projects\MuncipalCorporation\MuncipalCorporation\DBLogics\bin\Release\DBLogics.dll
+E:\Projects\MuncipalCorporation\MuncipalCorporation\DBLogics\bin\Release\DBLogics.pdb
+E:\Projects\MuncipalCorporation\MuncipalCorporation\DBLogics\bin\Release\BooleanHelper.dll
+E:\Projects\MuncipalCorporation\MuncipalCorporation\DBLogics\bin\Release\Newtonsoft.Json.dll
+E:\Projects\MuncipalCorporation\MuncipalCorporation\DBLogics\bin\Release\Newtonsoft.Json.xml
+E:\Projects\MuncipalCorporation\MuncipalCorporation\DBLogics\obj\Release\DBLogics.dll
+E:\Projects\MuncipalCorporation\MuncipalCorporation\DBLogics\obj\Release\DBLogics.pdb
